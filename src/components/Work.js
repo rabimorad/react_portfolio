@@ -24,9 +24,9 @@ const Work = () => {
                             <a href="https://torgkrogenvisby.se/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit Site</button>
                             </a>
-                            <a href="/">
+                            {/* <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>code</button>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
@@ -41,9 +41,9 @@ const Work = () => {
                             <a href="https://primeclean.se/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit Site</button>
                             </a>
-                            <a href="/">
+                            {/* <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>code</button>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
@@ -57,9 +57,9 @@ const Work = () => {
                             <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit Site</button>
                             </a>
-                            <a href="/">
+                            {/* <a href="/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>code</button>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
