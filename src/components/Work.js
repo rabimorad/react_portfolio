@@ -1,6 +1,7 @@
 import React from 'react'
 import Case1 from '../assets/projects/case1.png';
 import Case2 from '../assets/projects/case2.png';
+import Secure from '../assets/projects/secure.png';
 import Staytuned from '../assets/projects/staytuned.jpg'
 
 const Work = () => {
@@ -39,6 +40,22 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://primeclean.se/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit Site</button>
+                            </a>
+                            {/* <a href="/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>code</button>
+                            </a> */}
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage: `url(${Secure})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    {/* Hover Effects*/}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            React JS & styled CSS
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://profound-panda-e94f64.netlify.app/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Visit Site</button>
                             </a>
                             {/* <a href="/">
